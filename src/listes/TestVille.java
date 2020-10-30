@@ -28,8 +28,5 @@ public class TestVille {
         }
         System.out.println(result);
         System.out.println(nombreHab);
-
-
-
     }
 }
